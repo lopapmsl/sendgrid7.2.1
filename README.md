@@ -1,4 +1,4 @@
-# firstgithub
+# sendgrid content type issue
 
                    $this->load->library('email');
                     $this->email->initialize(array(
